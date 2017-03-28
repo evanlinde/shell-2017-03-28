@@ -34,4 +34,5 @@ drwxr-xr-x 1 elinde 1049089    0 Mar 28 14:54 [01;34mfull_terminal.d[0m
 -rwxr-xr-x 1 elinde 1049089  606 Mar 28 14:51 [01;32mtranscript.bashrc[0m
 ]0;MINGW64:/c/users/elinde/Desktop/shell-2017-03-28
 [32melinde@hpc-cloud-okey5 [35mMINGW64 [33m/c/users/elinde/Desktop/shell-2017-03-28[36m (master)[0m
-$ 
+$ exit
+exit
