@@ -1,2 +1,11 @@
 $ cd ../shell-2017-03-28/
-$ 
+$ ls
+[0m[01;32mansi2html.sh[0m  [01;34mfull_terminal.d[0m     [01;32mmake_html.sh[0m      [01;32mshort_prompt.bashrc[0m
+[01;32mauto_push.sh[0m  full_terminal.html  readme.md         [01;32mstart_transcript.sh[0m
+commands.txt  index.html          [01;32msetup_ssh_key.sh[0m  [01;32mtranscript.bashrc[0m
+$ whoami
+elinde
+$ pwd
+/c/users/elinde/Desktop/shell-2017-03-28
+$ exit
+exit

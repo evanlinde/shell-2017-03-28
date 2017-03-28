@@ -1,3 +1,5 @@
 exit
 cd ../shell-2017-03-28/
 ls
+whoami
+pwd
