@@ -18,4 +18,20 @@ $ ls -F
 commands.txt   index.html          [01;32msetup_ssh_key.sh[0m*  [01;32mtranscript.bashrc[0m*
 ]0;MINGW64:/c/users/elinde/Desktop/shell-2017-03-28
 [32melinde@hpc-cloud-okey5 [35mMINGW64 [33m/c/users/elinde/Desktop/shell-2017-03-28[36m (master)[0m
+$ ls -lh
+total 67K
+-rwxr-xr-x 1 elinde 1049089  18K Mar 28 14:51 [0m[01;32mansi2html.sh[0m
+-rwxr-xr-x 1 elinde 1049089  358 Mar 28 14:51 [01;32mauto_push.sh[0m
+-rw-r--r-- 1 elinde 1049089   88 Mar 28 14:54 commands.txt
+drwxr-xr-x 1 elinde 1049089    0 Mar 28 14:54 [01;34mfull_terminal.d[0m
+-rw-r--r-- 1 elinde 1049089  20K Mar 28 14:54 full_terminal.html
+-rw-r--r-- 1 elinde 1049089 1.3K Mar 28 14:51 index.html
+-rwxr-xr-x 1 elinde 1049089 1.2K Mar 28 14:51 [01;32mmake_html.sh[0m
+-rw-r--r-- 1 elinde 1049089 2.8K Mar 28 14:51 readme.md
+-rwxr-xr-x 1 elinde 1049089  678 Mar 28 14:51 [01;32msetup_ssh_key.sh[0m
+-rwxr-xr-x 1 elinde 1049089  455 Mar 28 14:51 [01;32mshort_prompt.bashrc[0m
+-rwxr-xr-x 1 elinde 1049089 1.7K Mar 28 14:51 [01;32mstart_transcript.sh[0m
+-rwxr-xr-x 1 elinde 1049089  606 Mar 28 14:51 [01;32mtranscript.bashrc[0m
+]0;MINGW64:/c/users/elinde/Desktop/shell-2017-03-28
+[32melinde@hpc-cloud-okey5 [35mMINGW64 [33m/c/users/elinde/Desktop/shell-2017-03-28[36m (master)[0m
 $ 

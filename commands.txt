@@ -8,3 +8,4 @@ ls
 ls -la
 cd ../shell-2017-03-28/
 ls -F
+ls -lh
