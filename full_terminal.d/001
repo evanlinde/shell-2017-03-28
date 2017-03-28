@@ -1,0 +1,21 @@
+]0;MINGW64:/c/users/elinde/Desktop/swc_2017-03-28
+[32melinde@hpc-cloud-okey5 [35mMINGW64 [33m/c/users/elinde/Desktop/swc_2017-03-28[36m[0m
+$ ls
+]0;MINGW64:/c/users/elinde/Desktop/swc_2017-03-28
+[32melinde@hpc-cloud-okey5 [35mMINGW64 [33m/c/users/elinde/Desktop/swc_2017-03-28[36m[0m
+$ ls -la
+total 8
+drwxr-xr-x 1 elinde 1049089 0 Mar 28 10:39 [0m[01;34m.[0m
+drwxr-xr-x 1 elinde 1049089 0 Mar 28 14:51 [01;34m..[0m
+]0;MINGW64:/c/users/elinde/Desktop/swc_2017-03-28
+[32melinde@hpc-cloud-okey5 [35mMINGW64 [33m/c/users/elinde/Desktop/swc_2017-03-28[36m[0m
+$ cd ../shell[?5h[?5l-2017-03-28/
+]0;MINGW64:/c/users/elinde/Desktop/shell-2017-03-28
+[32melinde@hpc-cloud-okey5 [35mMINGW64 [33m/c/users/elinde/Desktop/shell-2017-03-28[36m (master)[0m
+$ ls -F
+[0m[01;32mansi2html.sh[0m*  [01;34mfull_terminal.d[0m/    [01;32mmake_html.sh[0m*      [01;32mshort_prompt.bashrc[0m*
+[01;32mauto_push.sh[0m*  full_terminal.html  readme.md          [01;32mstart_transcript.sh[0m*
+commands.txt   index.html          [01;32msetup_ssh_key.sh[0m*  [01;32mtranscript.bashrc[0m*
+]0;MINGW64:/c/users/elinde/Desktop/shell-2017-03-28
+[32melinde@hpc-cloud-okey5 [35mMINGW64 [33m/c/users/elinde/Desktop/shell-2017-03-28[36m (master)[0m
+$ 
